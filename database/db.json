@@ -1,0 +1,82 @@
+{
+  "grades": [
+    {
+      "name": "Dan",
+      "course": "React",
+      "grade": 60,
+      "id": 1
+    },
+    {
+      "name": "Scott Bowler",
+      "course": "Web Development",
+      "grade": 100,
+      "id": 2
+    },
+    {
+      "name": "Tim Davis",
+      "course": "Web Development",
+      "grade": 50,
+      "id": 3
+    },
+    {
+      "name": "Wenhao Wang",
+      "course": "math",
+      "grade": 99,
+      "id": 4
+    },
+    {
+      "name": "Kevin",
+      "course": "English",
+      "grade": 9,
+      "id": 5
+    },
+    {
+      "name": "Vandana",
+      "course": "English",
+      "grade": 80,
+      "id": 7
+    },
+    {
+      "name": "Mr. X",
+      "course": "super power",
+      "grade": 100,
+      "id": 8
+    },
+    {
+      "name": "Cris",
+      "course": "Web Devlopment",
+      "grade": 80,
+      "id": 10
+    },
+    {
+      "name": "Wenhao",
+      "course": "wierd",
+      "grade": 100,
+      "id": 11
+    },
+    {
+      "name": "Shawn Wang",
+      "course": "English",
+      "grade": 98,
+      "id": 12
+    },
+    {
+      "name": "Darius",
+      "course": "Axe",
+      "grade": 100,
+      "id": 13
+    },
+    {
+      "name": "DariKing",
+      "course": "???",
+      "grade": 98,
+      "id": 14
+    },
+    {
+      "name": "Sun Daris",
+      "course": "Stragegy",
+      "grade": 99,
+      "id": 15
+    }
+  ]
+}
